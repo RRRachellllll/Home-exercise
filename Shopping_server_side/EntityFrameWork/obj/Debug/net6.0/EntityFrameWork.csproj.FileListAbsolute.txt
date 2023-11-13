@@ -1,0 +1,14 @@
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\bin\Debug\net6.0\EntityFrameWork.deps.json
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\bin\Debug\net6.0\EntityFrameWork.runtimeconfig.json
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\bin\Debug\net6.0\EntityFrameWork.dll
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\bin\Debug\net6.0\EntityFrameWork.pdb
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\EntityFrameWork.csproj.AssemblyReference.cache
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\EntityFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\EntityFrameWork.AssemblyInfoInputs.cache
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\EntityFrameWork.AssemblyInfo.cs
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\EntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\EntityFrameWork.dll
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\refint\EntityFrameWork.dll
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\EntityFrameWork.pdb
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\EntityFrameWork.genruntimeconfig.cache
+C:\Users\רחלי\Downloads\Shopping\EntityFrameWork\obj\Debug\net6.0\ref\EntityFrameWork.dll

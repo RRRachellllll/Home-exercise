@@ -1,0 +1,15 @@
+C:\Users\רחלי\Downloads\Shopping\Dal\bin\Debug\net6.0\Dal.deps.json
+C:\Users\רחלי\Downloads\Shopping\Dal\bin\Debug\net6.0\Dal.dll
+C:\Users\רחלי\Downloads\Shopping\Dal\bin\Debug\net6.0\Dal.pdb
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\Dal.dll
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\refint\Dal.dll
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\Dal.pdb
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\ref\Dal.dll
+C:\Users\רחלי\Downloads\Shopping\Dal\bin\Debug\net6.0\EntityFrameWork.dll
+C:\Users\רחלי\Downloads\Shopping\Dal\bin\Debug\net6.0\EntityFrameWork.pdb
+C:\Users\רחלי\Downloads\Shopping\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
